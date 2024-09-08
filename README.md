@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요. 구선아입니다🙇🏻‍♀️
 
 <!--
 **developer0826/developer0826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
